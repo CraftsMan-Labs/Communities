@@ -837,8 +837,56 @@
     "eventEndTime": "17:00",
     "eventVenue": "Classroom No.3, Aerospace Engineering, Indian Institute of Technology Madras, Chennai, Tamil Nadu 600036",
     "eventLink": "https://www.meetup.com/ilug-c/events/315918644/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2&member_id=479864043",
-    "location": "Classroom No.3, Aerospace Engineering, Indian Institute of Technology Madras, Chennai, Tamil Nadu 600036",
+    "location": "IIT Madras, Chennai",
     "communityName": "ILUGC",
     "communityLogo": "https://podu.pics/fhXzZRB-vP"
-  }
+  },
+  {
+    "eventName": "From Copilot to Agentic Dev & .NET: The Azure AI Era | Skillup Tamilnadu Session 8",
+    "eventDescription": "This event is a Microsoft Azure AI-focused session in Chennai titled From Copilot to Agentic Dev & .NET, featuring expert talks on AI-driven development, Azure Foundry, and the future of .NET, open to developers across all technology backgrounds.",
+    "eventDate": "2026-08-08",
+    "eventTime": "09:30",
+    "eventEndTime": "13:30",
+    "eventVenue": "UPS India Technology Center",
+    "eventLink": "https://www.meetup.com/azure-developer-community-chennai/events/315532378/?eventOrigin=home_page_upcoming_events%24all",
+    "location": "Chennai",
+    "communityName": "Azure Developer Community Tamilnadu",
+    "communityLogo": "https://podu.pics/ib_DGjze85"
+  },
+  {
+    "eventName": "DevOps Community Meetup Aug 22",
+    "eventDescription": "DevOps Community Meetup Aug 22 from Dev to Ops Community, Chennai",
+    "eventDate": "2026-08-22",
+    "eventTime": "09:30 AM",
+    "eventEndTime": "12:30 PM",
+    "eventVenue": "Chennai One IT SEZ 200 Feet Radial Rd, MCN Nagar Extension, Thoraipakkam, Chennai, Tamil Nadu 600097, India",
+    "eventLink": "https://luma.com/xpsbal0x?tk=6AWSFw",
+    "location": "Thoraipakkam, Chennai",
+    "communityName": "From-Dev-to-Ops",
+    "communityLogo": "https://podu.pics/z0-yPO_KvJ"
+  },
+  {
+    "eventName": "August Meetup!",
+    "eventDescription": "August Meetup! from CodeOnJVM Chennai Community, Chennai",
+    "eventDate": "2026-08-15",
+    "eventTime": "09:00 AM",
+    "eventEndTime": "2:00 PM",
+    "eventVenue": "Contentstack India Pvt. Ltd. 5th Floor, WorkEZ, Helix.21, Guru Nanak College Rd, above West side, Indira Gandhi Nagar, Velachery, Chennai, Greater Chennai, Tamil Nadu 600042",
+    "eventLink": "https://luma.com/2lb63il2",
+    "location": "Velachery, Chennai",
+    "communityName": "CodeonJVM Chennai",
+    "communityLogo": "https://podu.pics/r3R234UOLO"
+  },
+  {
+    "eventName": "Build2Learn #37 Meetup",
+    "eventDescription": "Build2Learn where innovation meets community - August edition",
+    "eventDate": "2026-08-29",
+    "eventTime": "09:30 AM",
+    "eventEndTime": "2:00 PM",
+    "eventVenue": "Grootan Technologies Pvt Ltd, 1st Floor, Bhaggyam Yukti, 87, Industrial Estate, Perungudi, Chennai, Tamil Nadu 600096",
+    "eventLink": "https://events.build2learn.in/",
+    "location": "Perungudi, Chennai",
+    "communityName": "Build2Learn",
+    "communityLogo": "https://www.podu.pics/ddT2CTFU_t"
+    }
 ]
